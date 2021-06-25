@@ -9,7 +9,7 @@
       <p><b>地址：石家庄市长安区石家庄铁道大学</b></p>
     </td>
     <td width="25%">
-      <img src="/hany0830.githug.io/hanyong.jpg" width="100%"> 
+      <img src="/hanyong.jpg" width="100%"> 
     </td>
   </tr>
 </table>

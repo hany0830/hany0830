@@ -11,12 +11,6 @@
     <td width="25%">
       <img src="/hany0830.githug.io/hanyong.jpg" width="100%"> 
     </td>
-    <td width="25%">
-      <img src="/hanyong.jpg" width="100%"> 
-    </td>
-<!--     <td width="25%">
-      <img src="hanyong.jpg" width="100%"> 
-    </td> -->
   </tr>
 </table>
 

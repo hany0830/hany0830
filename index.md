@@ -8,15 +8,15 @@
       <p><b>邮箱：1083418859@qq.com</b></p>
       <p><b>地址：石家庄市长安区石家庄铁道大学</b></p>
     </td>
-<!--     <td width="25%">
+    <td width="25%">
       <img src="/hany0830.githug.io/hanyong.jpg" width="100%"> 
-    </td> -->
+    </td>
     <td width="25%">
       <img src="/hanyong.jpg" width="100%"> 
     </td>
-    <td width="25%">
+<!--     <td width="25%">
       <img src="hanyong.jpg" width="100%"> 
-    </td>
+    </td> -->
   </tr>
 </table>
 

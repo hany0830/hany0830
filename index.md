@@ -1,37 +1,32 @@
-## Welcome to GitHub Pages
+# 个人简历
+<table border="0">
+  <tr>
+    <td width="75%">
+      <h3>姓名：刘子煜</h3>
+      <p><b>学历：本科在读</b></p>
+      <p><b>所在学院：石家庄铁道大学信息科学与技术学院</b></p>
+      <p><b>邮箱：1342683412@qq.com</b></p>
+      <p><b>地址：石家庄市长安区石家庄铁道大学</b></p>
+    </td>
+    <td width="25%">
+      <img src="/ziyuliu.jpg" width="100%"> 
+    </td>
+  </tr>
+</table>
 
-You can use the [editor on GitHub](https://github.com/hany0830/hany0830/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+# 学习情况
+### 目前所在专业为软件工程，在学习期间努力上进，做过一些项目，其中涉及到的有基于学生的mis系统、河北省重大技术需求征集系统、疫情分析系统、微信小程序记账本、安卓应用等
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# 社会活动情况
+### 经常发表个人学习博客，与博友们广泛沟通，不断探寻新鲜事物和结交不同的人群，促使自己不断成长。
 
-### Markdown
+# 专业实践情况
+### 目前在参加中国软件杯的比赛、此前还参加了中国大学生计算机设计大赛并获得奖项
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# 专业技能展示
+### 还请移至鄙人的博客以及githug主页查看
 
-```markdown
-Syntax highlighted code block
+# 专业博客发表
+### [个人博客](https://www.cnblogs.com/a155-/)
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hany0830/hany0830/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
